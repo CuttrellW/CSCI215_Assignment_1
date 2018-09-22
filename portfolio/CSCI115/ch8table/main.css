@@ -1,0 +1,64 @@
+/* font-family: 'Work Sans', sans-serif;
+font-family: 'Exo 2', sans-serif;*/
+#wrapper {width: 1000px;
+margin: auto;
+background-color: whitesmoke;
+}
+
+body {background-image: url(images/background.jpg);
+    font-family: 'Work Sans', sans-serif;
+}
+
+.logo {float: left;
+width: 200px;
+
+}
+
+header {height: 200px;
+background-color: royalblue;
+}
+
+h1 {font-family: 'Exo 2', sans-serif;
+    font-size: 75px;
+    padding-top: 55px;
+    padding-left: 270px;
+    font-weight: 100;
+    text-shadow: 0.5px 0.5px 8px white;
+}
+
+.summary {
+    font-size: 20px;
+    margin: 60px;
+   
+    
+}
+    table {margin:auto;
+border-collapse: collapse;
+    border: 4px solid black;
+
+}
+
+td, th {text-align: center;
+
+    border: 4px solid #A5BC11;
+    width: 175px
+  
+}
+
+th {background-color: royalblue;
+height: 50px;
+font-size: 22px;}
+
+td{ height: 100px;}
+
+.link {background-color: white;}
+
+.domain {float: right;
+margin-left: 15px;
+margin-top: 15px;}
+
+
+footer { text-align: center;
+padding: 18px;
+background-color: royalblue;
+margin-top: 50px;}

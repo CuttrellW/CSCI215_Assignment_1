@@ -1,0 +1,185 @@
+body {font-family: 'Quicksand', sans-serif;
+background-color: yellowgreen;
+background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
+
+}
+#wrapper {width: 1000px;
+margin: auto;
+background-color: white;}
+
+#hero {margin-left: auto;
+margin-right: auto;
+}
+
+#logo {float:left;
+padding-left: 20px;}
+
+#content {padding-left: 20px;
+    max-width: 680px;
+    float:left;
+    margin-bottom: 25px;
+
+}
+#content p {font-size: 20px;}
+h2 {font-size:36px;
+margin-bottom: 0;
+}
+#pyramid {float: right;;}
+
+aside {width:250px;
+    padding-right: 20px;
+    float: right;
+    
+}
+h3 {font-size: 24px;
+padding-top: 30px;}
+
+
+aside a {text-decoration: none;
+color:black;}
+
+.asidelink hr {border-width: 1px;}
+
+.asidelink {margin-top: 50px;}
+
+aside h4 {margin-bottom:0;}
+aside p{font-size: 12px;
+    text-align: center;
+    margin: 0;
+
+    
+    
+}
+.asideimg {margin: auto;}
+
+
+
+
+footer {background-color: #4294B6;
+    text-align: center;
+    color: white;
+    padding: 8px;
+    font-size: 12px;
+    clear: both;
+    margin-top: 50px;
+    display: block;
+    
+}
+
+
+.sep {width: 100px;
+margin: -10px 300px;
+}
+
+#boxbreath {width: 300px;
+float:left;
+padding:10px 20px 10px 10px;}
+
+
+
+#subtable {border: 2px solid black;
+border-collapse: collapse;
+    width: 600px;
+    height: 300px
+}
+
+
+#subtable td, #subtable th {border:1px solid black;
+border-collapse: collapse;
+ text-align: center;}
+
+tr:nth-last-of-type(odd) {background-color: lightgreen}
+th {background-color: #4294B6;
+color:white;
+font-size:18px;}
+
+.pw {padding-bottom: 15px;
+}
+.pwtitle{font-weight: 800; }
+.pw li {padding:5px;
+font-size: 20px;}
+
+
+
+#tips li {font-size: 24px;
+padding:4px;}
+#tips a {text-decoration: none; font-weight:900
+}
+
+
+#mindkeys li {padding: 5px;}
+
+#mindkeys a {text-decoration: none;
+font-size:24px;
+font-weight: 600}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.topnav {
+    overflow: hidden;
+    background-color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    float:right;
+}
+
+.topnav a {
+    float: right;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    padding: 6px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: right;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 20px;    
+    border: none;
+    outline: none;
+    color: black;
+    padding: 6px 16px 3px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  color: lightgray;
+  
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 3px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+   
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
